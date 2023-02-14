@@ -1,6 +1,7 @@
 import subprocess
 import sys
 import os
+from pur import update_requirements
 
 # Check if pur is installed, and warn user if it's not
 try:

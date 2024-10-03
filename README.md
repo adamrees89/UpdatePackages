@@ -3,4 +3,5 @@ This is a simple script that enables a one-click update/upgrade of all python pa
 
 # To-do
 
-- [ ] Add a try/except loop around package install to silently catch errors and move on
+- [x] Add a try/except loop around package install to silently catch errors and move on
+- [x] Use native PUR call instead of subprocess calls.
